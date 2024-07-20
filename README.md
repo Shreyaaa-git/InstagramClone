@@ -76,19 +76,22 @@ Follow these steps to set up the project locally:
 
 ### Login Page
 
-![Login Page](path_to_your_image/login_screenshot.png)
+![LoginPage](https://github.com/user-attachments/assets/8127c02e-5926-4cd0-8643-aea2139b25fe)
+
 
 _Description: The login page where users can enter their username and login._
 
 ### Homepage
 
-![Homepage](path_to_your_image/homepage_screenshot.png)
+![HomePage](https://github.com/user-attachments/assets/e5aab454-edc5-4c55-ad7f-f7a68e4ed9b8)
+
 
 _Description: The homepage displaying stories, posts, and profile suggestions._
 
 ### Profile Page
 
-![Profile Page](path_to_your_image/profile_page_screenshot.png)
+![ProfilePage](https://github.com/user-attachments/assets/cfb32025-dd0c-435f-93f7-32549e1f6586)
+
 
 _Description: The profile page showing the user's profile picture, followers, following count, and posts._
 
