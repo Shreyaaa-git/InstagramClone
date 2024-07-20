@@ -1,3 +1,99 @@
+# Instagram Clone
+
+A simple Instagram clone made with React Native and Expo.
+
+## Overview
+
+This project is a basic implementation of an Instagram-like app using React Native and Expo. It includes three main pages: Login/Sign Up, Homepage, and Profile Page. Each page mimics basic features found in Instagram, such as viewing posts, stories, and user profiles.
+
+## Pages
+
+### 1. Login/Sign Up Page
+
+- **Functionality:**
+  - Simple front-end for login and sign-up.
+  - No verification or JWT/cache functionality.
+  - Allows login by entering a username and clicking the login button.
+
+### 2. Homepage
+
+- **Sections:**
+  - **Top Story Section:**
+    - Displays dummy profiles.
+    - Supports horizontal scrolling.
+  - **Posts Section:**
+    - Displays dummy posts from users.
+    - Supports vertical scrolling.
+  - **Profile Suggestions Section:**
+    - Displays profile suggestions.
+    - Supports vertical scrolling.
+  - **Profile Icon:**
+    - Displays a profile icon at the bottom of the page.
+    - Adds click functionality to navigate to the profile page.
+
+### 3. Profile Page
+
+- **Sections:**
+  - **Top Section:**
+    - Displays the profile picture, followers, and following count.
+  - **Second Section:**
+    - Shows the number of posts.
+  - **Third Section:**
+    - Displays posts in a stacked card format.
+    - Supports horizontal scrolling to view posts (latest on the left, older on the right).
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/yourusername/InstagramClone.git
+   cd InstagramClone
+   ```
+
+2. Install dependencies
+   ```sh
+   npm install
+   ```
+
+3. Start the app
+   ```sh
+   expo start
+   ```
+
+## Usage
+
+- **Login:**
+  - Enter a username and click the login button to proceed to the homepage.
+- **Homepage:**
+  - View stories, posts, and profile suggestions by scrolling.
+  - Click the profile icon to navigate to the profile page.
+- **Profile Page:**
+  - View the user's profile picture, followers, following count, and posts.
+
+## Screenshots
+
+### Login Page
+
+![Login Page](path_to_your_image/login_screenshot.png)
+
+_Description: The login page where users can enter their username and login._
+
+### Homepage
+
+![Homepage](path_to_your_image/homepage_screenshot.png)
+
+_Description: The homepage displaying stories, posts, and profile suggestions._
+
+### Profile Page
+
+![Profile Page](path_to_your_image/profile_page_screenshot.png)
+
+_Description: The profile page showing the user's profile picture, followers, following count, and posts._
+
+---
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
